@@ -1,9 +1,9 @@
 <?php
 
-namespace Devimteam\Provider\CorsServiceProvider;
+namespace Devim\Provider\CorsServiceProvider;
 
-use Devimteam\Provider\CorsServiceProvider\EventSubscriber\CorsEventSubscriber;
-use Devimteam\Provider\CorsServiceProvider\Service\CorsService;
+use Devim\Provider\CorsServiceProvider\EventSubscriber\CorsEventSubscriber;
+use Devim\Provider\CorsServiceProvider\Service\CorsService;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 use Silex\Api\BootableProviderInterface;

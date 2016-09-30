@@ -1,6 +1,6 @@
 <?php
 
-namespace Devimteam\Provider\CorsServiceProvider\EventSubscriber;
+namespace Devim\Provider\CorsServiceProvider\EventSubscriber;
 
 use Pimple\Container;
 use Symfony\Component\EventDispatcher\EventSubscriberInterface;

@@ -1,6 +1,6 @@
 <?php
 
-namespace Devimteam\Provider\CorsServiceProvider\Service;
+namespace Devim\Provider\CorsServiceProvider\Service;
 
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
