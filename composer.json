@@ -1,0 +1,21 @@
+{
+    "type": "library",
+    "name": "devimteam/cors-provider",
+    "description": "Enable CORS for your project",
+    "keywords": [],
+    "license": "",
+    "authors": [],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7",
+        "silex/silex": "^2.0"
+    },
+    "require-dev": {
+        "codeception/codeception": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Devimteam\\Provider\\CorsServiceProvider\\": "src/"
+        }
+    }
+}
