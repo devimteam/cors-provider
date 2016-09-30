@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Devimteam\\Provider\\CorsServiceProvider\\": "src/"
+            "Devim\\Provider\\CorsServiceProvider\\": "src/"
         }
     }
 }
