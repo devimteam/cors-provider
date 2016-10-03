@@ -1,6 +1,9 @@
 {
     "type": "library",
-    "name": "devimteam/cors-provider",
+    "name": "devimteam/silex-cors-provider",
+    "replace": {
+        "devimteam/cors-provider": "1.0.1"
+    },
     "description": "Enable CORS for your project",
     "keywords": [],
     "license": "",
