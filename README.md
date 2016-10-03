@@ -9,7 +9,7 @@ Enable CORS for your project
 #### Install via composer
 
 ```
-$ composer require devimteam/cors-provider
+$ composer require devimteam/silex-cors-provider
 ```
 
 ## Use-cases
