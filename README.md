@@ -1,4 +1,4 @@
-# RpcServer Component
+# Cors Service Provider Component
 
 ## Intro
 
